@@ -1,4 +1,4 @@
-package com.my.TestRESTfullCSV;
+package com.my.TestRESTfullCSV.Entity;
 
 import jakarta.persistence.*;
 

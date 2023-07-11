@@ -1,5 +1,7 @@
-package com.my.TestRESTfullCSV;
+package com.my.TestRESTfullCSV.Service;
 
+import com.my.TestRESTfullCSV.Entity.Tutorial;
+import com.my.TestRESTfullCSV.Repo.TutorialRepository;
 import com.opencsv.CSVWriter;
 import com.opencsv.bean.StatefulBeanToCsv;
 import com.opencsv.bean.StatefulBeanToCsvBuilder;

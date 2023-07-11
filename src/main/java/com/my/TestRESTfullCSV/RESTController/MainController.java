@@ -1,7 +1,7 @@
 package com.my.TestRESTfullCSV.RESTController;
 
-import com.my.TestRESTfullCSV.Tutorial;
-import com.my.TestRESTfullCSV.TutorialService;
+import com.my.TestRESTfullCSV.Entity.Tutorial;
+import com.my.TestRESTfullCSV.Service.TutorialService;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
